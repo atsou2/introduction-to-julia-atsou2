@@ -1,5 +1,6 @@
 markdown
 # API
-'''@autodocs
+```@autodocs
 Modules = [InsertionSort]
-'''
+Order = [:type, :function]
+```
